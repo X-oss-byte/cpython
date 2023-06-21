@@ -34,7 +34,7 @@ This project follows the [all-contributors](https://allcontributors.org/docs/en/
 ### 1. Submit an issue
 
 - Create a [new issue](https://github.com/ethereum/ethereum-org-website/issues/new/choose).
-- Comment on the issue (if you'd like to be assigned to it) - that way [our team can assign the issue to you](https://github.blog/2019-06-25-assign-issues-to-issue-commenters/).
+- Comment on the issue (if you'd like to be assigned to it) - that way [our team can assign the issue to you](https://github.blog/2019-06-25-assign-issues-to-issue-sammyfilly/).
 
 More information on the issue creation process, and expectations around creating issues can be [found here](docs/github-issue-triage-process.md).
 
