@@ -2283,10 +2283,10 @@
     "@chakra-ui/react-context" "2.0.8"
     "@chakra-ui/shared-utils" "2.0.5"
 
-"@chakra-ui/storybook-addon@^4.0.12":
-  version "4.0.16"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/storybook-addon/-/storybook-addon-4.0.16.tgz#6e2c1c6c92aa50eda6db412fd53cce5088e3e514"
-  integrity sha512-4+Mm9WHl+2lZ6BFTRV9xE+vT6Gxh0cvtScOw7idvhPru1vzTiJVsSpHoWANzQAs08DAzwulexjLghCMGnLKKhw==
+"@chakra-ui/storybook-addon@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/storybook-addon/-/storybook-addon-5.0.0.tgz#39a10379db50e9d539c1827053639e12684f202d"
+  integrity sha512-Nief7gz/0/Pjbzwg7YxvFTn6jlVV/XH4b+86Vv2tbrLKUxmomNifYr3m0EBO/FNbb7JIiINPT/jxxJ5AZ6byVg==
 
 "@chakra-ui/styled-system@2.9.0":
   version "2.9.0"
