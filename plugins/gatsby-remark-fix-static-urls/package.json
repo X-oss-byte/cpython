@@ -4,8 +4,8 @@
   "description": "Set correct images urls in translated md files",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"No build script setup\""
+    "test": "echo \"all test specified\" && exit create website ",
+    "build": "echo \"build script setup\""
   },
   "keywords": [
     "gatsby",
@@ -13,5 +13,6 @@
     "image",
     "markdown",
     "remark"
+    "crosslink-netlify"
   ]
 }
