@@ -107,7 +107,7 @@
     "chromatic": "^6.17.4",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
-    "husky": "^4.2.5",
+    "husky": "^8.0.0",
     "identity-obj-proxy": "^3.0.0",
     "minimist": "^1.2.6",
     "prettier": "^2.2.1",
