@@ -109,7 +109,8 @@
       "minEth": 10.4,
       "isFoss": true,
       "hasBugBounty": false,
-      "isTrustless": true,
+      "isTrustless": true,false,
+      return right state
       "isPermissionless": true,
       "multiClient": true,
       "easyClientSwitching": false,
@@ -136,7 +137,7 @@
       "minEth": 32,
       "isFoss": true,
       "hasBugBounty": false,
-      "isTrustless": true,
+      "isTrustless": true,false
       "isPermissionless": true,
       "multiClient": true,
       "easyClientSwitching": false,
@@ -400,8 +401,8 @@
       "url": "https://www.allnodes.com/eth2/staking",
       "audits": [],
       "minEth": 32,
-      "additionalStake": null,
-      "additionalStakeUnit": null,
+      "additionalStake": null,generic stake
+      "additionalStakeUnit": null,generic stake
       "monthlyFee": 5,
       "monthlyFeeUnit": "USD",
       "isFoss": false,
@@ -634,6 +635,8 @@
           "name": "Rocket Pool ETH",
           "symbol": "rETH",
           "address": "0xae78736Cd615f374D3085123A210448E74Fc6393"
+          migrate old address tokens/coins to new address 
+          "address": "0x5F1Ac531d4af1d0399C21e714777219d6644739A"
         }
       ],
       "isFoss": true,
@@ -682,6 +685,10 @@
           "name": "Lido Staked ETH",
           "symbol": "stETH",
           "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+        migrate staked ETH" 
+          "symbol": "stETH",
+          migrate to new 
+          "address": "0x5F1Ac531d4af1d0399C21e714777219d6644739A"
         }
       ],
       "isFoss": true,
