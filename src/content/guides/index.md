@@ -6,11 +6,11 @@ lang: en
 
 # Ethereum guides
 
-Do you want to start your Ethereum journey? There's a whole community of us exploring together many different ways to use and understand Ethereum. Ethereum is not a corporation with a script-bound helpdesk: it is a living group of people interested in building better worlds. These practical guides will help you learn how to get started and where to find us.
+Do you want to start your Ethereum journey? Ethereum is not a corporation with a script-bound helpdesk, but these practical guides will help you learn how to get started.
 
 ## Getting started
 
-1. [How to "register" an Ethereum account](/guides/how-to-register-an-ethereum-account/) - Anyone can create a wallet for free. This guide will show you where to begin.
+1. [How to "create" an Ethereum account](/guides/how-to-create-an-ethereum-account/) - Anyone can create a wallet for free. This guide will show you where to begin.
 
 2. [How to use a wallet](/guides/how-to-use-a-wallet/) - An introduction to the basic features of any wallet and how to use them.
 

@@ -1,7 +1,7 @@
 import React, { ReactNode, useState } from "react"
 import { useTranslation } from "gatsby-plugin-react-i18next"
 import { graphql, PageProps } from "gatsby"
-import { GatsbyImage, IGatsbyImageData } from "gatsby-plugin-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 import {
   Box,
   chakra,
@@ -175,9 +175,12 @@ const PageHeader = () => (
     <Text color="text200" maxW="55ch" fontSize="xl" mt={4}>
       <Translation id="page-index-description" />
     </Text>
-    <ButtonLink variant="outline" to="/learn/">
-      <Translation id="page-index-title-button" />
-    </ButtonLink>
+    <ButtonLinkRow
+      firstButton={{
+        to: "/learn/",
+        child: <Translation id="page-index-title-button" />,
+      }}
+    />
   </Flex>
 )
 
@@ -636,12 +639,7 @@ export const query = graphql`
     }
     ethereum: file(relativePath: { eq: "what-is-ethereum.png" }) {
       childImageSharp {
-        gatsbyImageData(
-          width: 740
-          layout: CONSTRAINED
-          placeholder: BLURRED
-          quality: 100
-        )
+        gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED, quality: 100)
       }
     }
     enterprise: file(relativePath: { eq: "enterprise-eth.png" }) {
@@ -701,12 +699,7 @@ export const query = graphql`
     }
     impact: file(relativePath: { eq: "impact_transparent.png" }) {
       childImageSharp {
-        gatsbyImageData(
-          width: 760
-          layout: CONSTRAINED
-          placeholder: BLURRED
-          quality: 100
-        )
+        gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED, quality: 100)
       }
     }
     finance: file(relativePath: { eq: "finance_transparent.png" }) {
@@ -721,24 +714,14 @@ export const query = graphql`
     }
     hackathon: file(relativePath: { eq: "hackathon_transparent.png" }) {
       childImageSharp {
-        gatsbyImageData(
-          width: 720
-          layout: CONSTRAINED
-          placeholder: BLURRED
-          quality: 100
-        )
+        gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED, quality: 100)
       }
     }
     infrastructure: file(
       relativePath: { eq: "infrastructure_transparent.png" }
     ) {
       childImageSharp {
-        gatsbyImageData(
-          width: 760
-          layout: CONSTRAINED
-          placeholder: BLURRED
-          quality: 100
-        )
+        gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED, quality: 100)
       }
     }
     infrastructurefixed: file(
