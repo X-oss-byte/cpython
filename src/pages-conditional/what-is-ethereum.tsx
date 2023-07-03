@@ -990,9 +990,7 @@ export const query = graphql`
     diffEthAndBtc: file(relativePath: { eq: "eth.png" }) {
       ...twoColImage
     }
-    stats: file(relativePath: { eq: "upgrades/newrings.png" }) {
-      ...twoColImage
-    }
+    
     ethCoin: file(relativePath: { eq: "impact_transparent.png" }) {
       ...twoColImage
     }
