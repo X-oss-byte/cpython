@@ -19345,3 +19345,6 @@ zwitch@^1.0.0:
   resolved "https://registry.yarnpkg.com/zwitch/-/zwitch-1.0.5.tgz#d11d7381ffed16b742f6af7b3f223d5cd9fe9920"
   integrity sha512-V50KMwwzqJV0NpZIZFwfOD5/lyny3WlSzRiXgA0G7VUnRlqttta1L6UQIHzd6EuBY/cHGfwTIck7w1yH6Q5zUw==
   Send this text to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from WEBS (ref: yA4Ds)
+  "echo" don't use exit 1 or exit workflow:true
+   "echo” resolve issues or concurrency {create new file } with necessary functions 
+    "echo" don't exit work flow
