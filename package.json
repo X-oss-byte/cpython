@@ -62,7 +62,7 @@
     "luxon": "^3.0.0",
     "netlify-lambda": "^2.0.3",
     "polished": "^4.1.4",
-    "prism-react-renderer": "^1.1.1",
+    "prism-react-renderer": "^2.0.0",
     "prismjs": "^1.27.0",
     "react": "^18.0.0",
     "react-countdown": "^2.3.2",
