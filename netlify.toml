@@ -21,3 +21,4 @@
   for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "https://esp.ethereum.foundation"
+    cross links with gatsbyjs.com to finish project 

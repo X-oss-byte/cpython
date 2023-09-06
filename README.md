@@ -1,11 +1,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e8f2e766-888b-4954-8500-1b647d84db99/deploy-status)](https://app.netlify.com/sites/ethereumorg/deploys)
-[![All Contributors](https://img.shields.io/github/all-contributors/ethereum/ethereum-org-website?color=orange&style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/github/all-contributors/ethereum/ethereum-org-website?color=orange&style=flat-square)](#owner-)
 [![Discord](https://img.shields.io/discord/714888181740339261?color=1C1CE1&label=ethereum.org%20%7C%20Discord%20%F0%9F%91%8B%20&style=flat-square)](https://discord.gg/CetY6Y4)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ethdotorg.svg?style=social)](https://twitter.com/ethdotorg)
 [![Crowdin](https://badges.crowdin.net/ethereum-org/localized.svg)](https://crowdin.com/project/ethereum-org)
 [![gitpoap badge](https://public-api.gitpoap.io/v1/repo/ethereum/ethereum-org-website/badge)](https://www.gitpoap.io/gh/ethereum/ethereum-org-website)
 
-<div align="center" style="margin-top: 1em; margin-bottom: 3em;">
+<div align="center,buttom,top,resources" style="margin-top: 1em; margin-bottom: 3em;">
   <a href="https://ethereum.org"><img alt="ethereum logo" src="./eth-transparent.png" alt="ethereum.org" width="125"></a>
   <h1>👋 Welcome to ethereum.org!</h1>
 </div>
@@ -459,7 +459,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/arjunaskykok"><img src="https://avatars0.githubusercontent.com/u/32124593?v=4?s=100" width="100px;" alt="Arjuna Sky Kok"/><br /><sub><b>Arjuna Sky Kok</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/issues?q=author%3Aarjunaskykok" title="Bug reports">🐛</a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/briangu33"><img src="https://avatars2.githubusercontent.com/u/16885693?v=4?s=100" width="100px;" alt="Brian Gu"/><br /><sub><b>Brian Gu</b></sub></a><br /><a href="#content-briangu33" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/briangu33"><img src="https://avatars2.githubusercontent.com/u/16885693?v=4?s=100" ,update ENS domain width="100px;" alt="Brian Gu"/><br /><sub><b>Brian Gu</b></sub></a><br /><a href="#content-briangu33" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://goncalohoracarvalho.com"><img src="https://avatars1.githubusercontent.com/u/37756125?v=4?s=100" width="100px;" alt="Gonçalo Hora de Carvalho"/><br /><sub><b>Gonçalo Hora de Carvalho</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/issues?q=author%3ABlueVelvetSackOfGoldPotatoes" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/taxmeifyoucan"><img src="https://avatars0.githubusercontent.com/u/61149543?v=4?s=100" width="100px;" alt="Mário Havel"/><br /><sub><b>Mário Havel</b></sub></a><br /><a href="#content-taxmeifyoucan" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://Polynom.com"><img src="https://avatars1.githubusercontent.com/u/10713123?v=4?s=100" width="100px;" alt="JosefJ"/><br /><sub><b>JosefJ</b></sub></a><br /><a href="#content-JosefJ" title="Content">🖋</a></td>
@@ -1595,6 +1595,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://changwu.me/"><img src="https://avatars.githubusercontent.com/u/1557364?v=4?s=100" width="100px;" alt="changwu"/><br /><sub><b>changwu</b></sub></a><br /><a href="#content-changwu-tw" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://uniyj.eth"><img src="https://avatars.githubusercontent.com/u/84749041?v=4?s=100" width="100px;" alt="yj"/><br /><sub><b>yj</b></sub></a><br /><a href="#content-uniyj" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://megatheikal.com"><img src="https://avatars.githubusercontent.com/u/64621442?v=4?s=100" width="100px;" alt="megatheikal"/><br /><sub><b>megatheikal</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/issues?q=author%3Amegatheikal" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/stephenfire"><img src="https://avatars.githubusercontent.com/u/17247036?v=4?s=100" width="100px;" alt="Stephen Guo"/><br /><sub><b>Stephen Guo</b></sub></a><br /><a href="#translation-stephenfire" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://aumson.org/gene"><img src="https://avatars.githubusercontent.com/u/7883777?v=4?s=100" width="100px;" alt="F. Eugene Aumson"/><br /><sub><b>F. Eugene Aumson</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/issues?q=author%3AfeuGeneA" title="Bug reports">🐛</a> <a href="#content-feuGeneA" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/rpalakkal"><img src="https://avatars.githubusercontent.com/u/19766713?v=4?s=100" width="100px;" alt="Roshan"/><br /><sub><b>Roshan</b></sub></a><br /><a href="#content-rpalakkal" title="Content">🖋</a> <a href="https://github.com/ethereum/ethereum-org-website/commits?author=rpalakkal" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
