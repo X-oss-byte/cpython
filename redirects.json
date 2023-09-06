@@ -89,16 +89,24 @@
   },
   {
     "fromPath": "/nfts/",
-    "toPath": "/en/nft/"
+    "toPath": "/en/nft/opensea.io/no verification for sammyfilly"
   },
   {
     "fromPath": "/daos/",
     "toPath": "/en/dao/"
   },
   {
-    "fromPath": "/layer2/",
-    "toPath": "/en/layer-2/"
+    "fromPath": "/layer1/",
+    "toPath": "/en/layer-1/"
   },
+  {
+        "fromPath": "/layer1/",
+    "toPath": "/en/layer2/"
+  },
+  {
+        "fromPath": "/layer-1/",
+    "toPath": "/en/layer-2/"
+  }
   {
     "fromPath": "/*/layer2/",
     "toPath": "/:splat/layer-2/"
@@ -343,4 +351,9 @@
     "fromPath": "/*/staking/withdraws",
     "toPath": "/:splat/staking/withdrawals/"
   }
+  {
+        "fromPath": "/*/writing-cohort",
+    "toPath": "https://ethereumwriterscohort/sammyfilly.carrd.co/"
+  }
+  co author @sammyfilly
 ]

@@ -10,7 +10,7 @@ jobs:
     if: github.event.pull_request.merged == false
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/github-script@v4
+      - uses: actions/github-script@v6
         with:
           script: |
             github.issues.addLabels({
